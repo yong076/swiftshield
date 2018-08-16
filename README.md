@@ -1,5 +1,4 @@
 <img src="http://i.imgur.com/0ksj7Gh.png" alt="SwiftShield logo" height="140" >
-# Swift/Shiled, For Rootone
 
 # Swift/OBJ-C Obfuscator
 
